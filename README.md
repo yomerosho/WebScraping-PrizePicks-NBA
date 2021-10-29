@@ -25,3 +25,5 @@ Techniques used for this exercise include:
   <li>Looping over a dataframe </li>
   <li>Slicing a dataframe </li>
 </ul>
+
+Note: It typically scrapes the PrizePick site relatively fast. Make sure you give it some time and leave the browser open (and untouched) while it is scraping the NBA players' data on ESPN. This can take (3-5 minutes) depending on the number of players you scraped from ESPN.
