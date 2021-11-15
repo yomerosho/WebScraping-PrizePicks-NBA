@@ -1,5 +1,5 @@
 # PrizePicks_NBA
-Make Better NBA PrizePick Selections With Selenium
+Make Better NBA PrizePick Selections & Webscraping With Selenium
 
 This exercise was to figure out a way to use python to scrape data and present in a visually friendly way so
 that one can quickly make PrizePick selections
